@@ -4,6 +4,8 @@
 
 ![image info](./assets/results.png)
 
+#### Note: 5 Fold cross validation results are reported here. Mean and Std value as (mean &pm; std)
+
 ### To run the  `Tide-DS-Task.ipynb`
 - Create python environment and install dependencies from requirements.txt
 - Put your `data` in `data/` and starting running the notebook sequentially
