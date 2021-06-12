@@ -1,0 +1,1 @@
+{"accuracy": {"mean": 95.98, "std": 0.31}, "precision": {"mean": 77.68, "std": 2.33}, "recall": {"mean": 59.08, "std": 32.36}, "f1": {"mean": 68.38, "std": 2.81}, "auc": {"mean": 70.02000000000001, "std": 2.87}}
