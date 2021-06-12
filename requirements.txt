@@ -1,0 +1,133 @@
+aioice==0.7.5
+aiortc==1.2.0
+alembic==1.6.2
+APScheduler==3.7.0
+argon2-cffi==20.1.0
+asn1crypto==1.4.0
+async-generator==1.10
+attrs==21.2.0
+av==8.0.3
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bleach==3.3.0
+certifi==2021.5.30
+cffi==1.14.5
+chardet==4.0.0
+click==8.0.1
+colorama==0.4.4
+crc32c==2.2
+cryptography==3.4.7
+cycler==0.10.0
+dataclasses==0.6
+decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
+defusedxml==0.7.1
+dnspython==2.1.0
+dpcontracts==0.6.0
+entrypoints==0.3
+fastdist==1.1.2
+Flask==2.0.0
+Flask-Cors==3.0.10
+Flask-Migrate==2.1.1
+Flask-PyMongo==2.3.0
+Flask-Script==2.0.6
+Flask-SQLAlchemy==2.3.2
+forbiddenfruit==0.1.4
+future==0.18.2
+geographiclib==1.50
+geopy==2.1.0
+greenlet==1.1.0
+gunicorn==19.9.0
+h2o==3.32.1.2
+idna==2.10
+ipykernel @ file:///tmp/build/80754af9/ipykernel_1607452791405/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///tmp/build/80754af9/ipython_1617120888991/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.6.3
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1620980201111/work
+jedi @ file:///tmp/build/80754af9/jedi_1606932531272/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1621238361758/work
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+jsonschema==3.2.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
+jupyter-core @ file:///tmp/build/80754af9/jupyter_core_1612213314396/work
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.0
+kiwisolver==1.3.1
+llvmlite==0.36.0
+loguru==0.5.3
+Mako==1.1.4
+MarkupSafe @ file:///tmp/build/80754af9/markupsafe_1620985077516/work
+matplotlib==3.4.2
+mistune==0.8.4
+mkl-fft==1.3.0
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1618853971975/work
+mkl-service==2.3.0
+nbclient==0.5.3
+nbconvert==6.0.7
+nbformat==5.1.3
+nest-asyncio==1.5.1
+netifaces==0.10.9
+notebook==6.4.0
+numba @ file:///tmp/build/80754af9/numba_1616774250644/work
+numpy==1.20.3
+packaging==20.9
+pandas==1.2.4
+pandocfilters==1.4.3
+parso==0.7.0
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pg8000==1.19.5
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==8.2.0
+prometheus-client==0.10.1
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
+protobuf==3.17.0
+psycopg2-binary==2.8.6
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pycparser==2.20
+pyee==8.1.0
+Pygments @ file:///tmp/build/80754af9/pygments_1621606182707/work
+pylibsrtp==0.6.8
+pymongo==3.11.4
+PyNaCl==1.4.0
+pyparsing==2.4.7
+pyrsistent==0.17.3
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+python-dotenv==0.17.1
+python-editor==1.0.4
+pytorch-tabnet==3.1.1
+pytz==2021.1
+pyzmq==20.0.0
+requests==2.25.1
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1621370406642/work
+scipy==1.6.3
+scramp==1.4.0
+seaborn==0.11.1
+Send2Trash==1.5.0
+six==1.16.0
+SQLAlchemy==1.3.0
+SQLAlchemy-Utils==0.33.6
+sqlitedict==1.7.0
+syft==0.3.0
+syft-proto==0.5.3
+tabulate==0.8.9
+terminado==0.10.0
+testing.common.database==2.0.3
+testing.postgresql==1.3.0
+testpath==0.5.0
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+torch==1.8.1
+torchvision==0.9.1
+tornado @ file:///tmp/build/80754af9/tornado_1606942317143/work
+tqdm==4.61.0
+traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
+typeguard==2.12.0
+typing-extensions==3.10.0.0
+tzlocal==2.1
+urllib3==1.26.4
+uuid==1.30
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+websockets==9.0.2
+Werkzeug==2.0.1
+widgetsnbextension==3.5.1
+xgboost==1.3.3
+yolk3k==0.9
